@@ -1,5 +1,7 @@
 
-
+<p align="center">
+<img align="center" src="https://i.ibb.co/t4M7S0Q/pixelB.png" alt="pixelB" height="200" width="200" />
+</p>
 <h1 align="center"> <samp> Brian Todd - Software Developer </samp>   👨🏿‍💻 </h1> 
 <h3> <samp> A passionate developer from South Austin </samp></h3>
 
