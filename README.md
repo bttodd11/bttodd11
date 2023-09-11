@@ -6,7 +6,7 @@
 <h3> <samp> A passionate developer from South Austin </samp></h3>
 
  🔭 <samp> I’m currently not working on any projects </samp></p>
- 🌱 <samp> I’m currently learning **Machine Learning & Springboot**</samp></p>
+ 🌱 <samp> I’m currently learning **Python**</samp></p>
 
  <samp>👨‍💻 All of my projects are available in my [repo](https://github.com/bttodd11?tab=repositories) </samp>
 
